@@ -1,0 +1,29 @@
+nav{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    height: 72px;
+  }
+  
+  nav img{
+    width: 3rem;
+    height: 3rem;
+    margin-left: 4rem;
+    margin-right: 2rem;
+  }
+  
+  nav ul{
+    display: flex;
+    gap: 2.5rem;
+    font-weight: 500;
+  }
+  
+  nav ul li{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+  }
+  
